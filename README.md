@@ -2,7 +2,7 @@
 
 You can see it live at: https://chipboard.venuatu.me/ (following #hackagong #chipboard and #abcnews)
 
-It currently supports pulling messages and photos from twitter, instagram, flickr and google+
+It currently supports pulling messages and photos from twitter, instagram, flickr and google+ (defined in [src/scripts/sources](src/scripts/sources)).
 
 ## Installation
 
