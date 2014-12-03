@@ -1,5 +1,7 @@
 # Chipboard - real time social feeds
 
+You can see it live at: http://hacktweets.venuatu.me/ (following hackagong chipboard and abcnews)
+
 ## Installation
 
 1.  Install nodejs and grunt-cli
