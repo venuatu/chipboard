@@ -38,7 +38,7 @@ module.exports = [
     devtool: false,
     entry: [
         'webpack/hot/only-dev-server',
-        './src/scripts/components/main.jsx'
+        './src/scripts/main.jsx'
     ],
 
     stats: {
@@ -67,7 +67,7 @@ module.exports = [
   },  {
     // The configuration for the server-side rendering
     name: "server-side rendering",
-    entry: "./src/scripts/components/main.jsx",
+    entry: "./src/scripts/main.jsx",
     target: "node",
     output: {
       path: assetsPath,
